@@ -1,4 +1,4 @@
-a=int(input("Enter your first name : "))
-b=int(input("Enter your second name : "))
+a=int(input("Enter your first number : "))
+b=int(input("Enter your second number : "))
 res=a+b
 print(res)
